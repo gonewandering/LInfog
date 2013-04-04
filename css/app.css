@@ -1,0 +1,32 @@
+body { 
+	background: black; 
+}
+
+.container { 
+	margin-top:40px;
+}
+
+#chart {
+  font: 10px sans-serif;
+}
+
+.chord path {
+  fill-opacity: .67;
+  stroke: #000;
+  stroke-width: .5px;
+}
+
+.content h1 { 
+	color:#CCC;
+	font-weight:300;
+	opacity:.7;
+	margin-bottom:30px;
+	margin-top:100px;
+}
+
+.content p { 
+	color:#555;
+	font-size:18px;
+	line-height:28px;
+	font-weight:300;
+}
